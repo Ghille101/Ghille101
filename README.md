@@ -3,7 +3,7 @@
 [![Language  Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghille101&layout=compact&show_icons=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849&count_private=true&langs_count=2)](https://github.com/Ghille101)
 
 
-**Projects**
+**Projects**\n
    **Coolware**
    **Emperor Hub**
    **Drain Hook**
